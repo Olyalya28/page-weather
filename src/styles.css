@@ -28,3 +28,9 @@ ul {
   list-style: none;
   color: blue;
 }
+p {
+  background: #b484e0;
+  margin: 20px;
+  padding: 20px;
+  right: 0;
+}
