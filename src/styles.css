@@ -1,0 +1,30 @@
+h3 {
+  color: blue;
+  font-weight: 100;
+  margin-top: 10px;
+}
+.date {
+  background: #fff;
+  margin: 20px 0;
+  padding: 20px;
+}
+.city {
+  background: #fff;
+  margin: 20px;
+  padding: 20px;
+  right: 0;
+  position: fixed;
+  border: 20px;
+  border-radius: 20px;
+}
+h5 {
+  margin: 20px 0;
+  text-align: left;
+}
+.col {
+  margin-top: 20px;
+}
+ul {
+  list-style: none;
+  color: blue;
+}
